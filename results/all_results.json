@@ -1,0 +1,27 @@
+{
+  "exp_1": {
+    "status": "done",
+    "n_scenarios": "16",
+    "summary_path": "results/smile_summary.csv"
+  },
+  "exp_2": {
+    "status": "done",
+    "n_scenarios": "16",
+    "summary_path": "results/atm_skew_summary.csv"
+  },
+  "exp_3": {
+    "status": "done",
+    "n_scenarios": "2",
+    "summary_path": "results/density_summary.csv"
+  },
+  "exp_4": {
+    "status": "done",
+    "n_scenarios": "2",
+    "pass_count": "2",
+    "fail_count": "0"
+  },
+  "exp_5": {
+    "status": "done",
+    "n_scenarios": "2"
+  }
+}
